@@ -1,106 +1,109 @@
 {
-  "Appointments": [
-    {
-      "doctorName": "Dr. Emily Johnson",
-      "designation": "Cardiologist",
-      "qualification": "MD, FACC",
-      "date": "2024-June-15",
-      "time": "10:00 AM",
-      "status": "cancelled",
-      "doctorRoom": "A214",
-      "contact": "+1 555-0123",
-      "email": "emily.johnson@hospital.com",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s"
-    },
-    {
-      "doctorName": "Dr. Michael Thompson",
-      "designation": "Pediatrician",
-      "qualification": "MD, FAAP",
-      "date": "2024-June-15",
-      "time": "2:30 PM",
-      "status": "completed",
-      "doctorRoom": "B107",
-      "contact": "+1 555-0456",
-      "email": "michael.thompson@hospital.com",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgv_K75syaSiaxXGVBUykElNB9uD1Le4d8w&s"
-    },
-    {
-      "doctorName": "Dr. Sarah Wilson",
-      "designation": "Dermatologist",
-      "qualification": "MD, FAAD",
-      "date": "2024-June-17",
-      "time": "11:15 AM",
-      "status": "completed",
-      "doctorRoom": "C305",
-      "contact": "+1 555-0789",
-      "email": "sarah.wilson@hospital.com",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s"
-
-    },
-    {
-      "doctorName": "Dr. David Lee",
-      "designation": "Orthopedic Surgeon",
-      "qualification": "MD, FAAOS",
-      "date": "2024-July-18",
-      "time": "3:45 PM",
-      "status": "cancelled",
-      "doctorRoom": "D112",
-      "contact": "+1 555-2468",
-      "email": "david.lee@hospital.com",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ43pA5ohSHvxkSP_0VAxPy8GZAUgDydGQ8kyYZewhxXpYtRoL8SSHfQtpruehLB29Ls&usqp=CAU"
-
-    },
-    {
-      "doctorName": "Dr. Jessica Brown",
-      "designation": "Obstetrician/Gynecologist",
-      "qualification": "MD, FACOG",
-      "date": "2024-August-19",
-      "time": "9:00 AM",
-      "status": "scheduled",
-      "doctorRoom": "E201",
-      "contact": "+1 555-3690",
-      "email": "jessica.brown@hospital.com",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s"
-
-    },
-    {
-      "doctorName": "Dr. Robert Davis",
-      "designation": "Neurologist",
-      "qualification": "MD, FAAN",
-      "date": "2024-September-06",
-      "time": "1:30 PM",
-      "status": "completed",
-      "doctorRoom": "F314",
-      "contact": "+1 555-4567",
-      "email": "robert.davis@hospital.com",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgv_K75syaSiaxXGVBUykElNB9uD1Le4d8w&s"
-
-    },
-    {
-      "doctorName": "Dr. Emily Chen",
-      "designation": "Gastroenterologist",
-      "qualification": "MD, FACG",
-      "date": "2024-September-20",
-      "time": "4:00 PM",
-      "status": "rescheduled",
-      "doctorRoom": "G108",
-      "contact": "+1 555-7890",
-      "email": "emily.chen@hospital.com",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s"
-
-    },
-    {
-      "doctorName": "Dr. William Taylor",
-      "designation": "Oncologist",
-      "qualification": "MD, FASCO",
-      "date": "2024-September-22",
-      "time": "10:30 AM",
-      "status": "scheduled",
-      "doctorRoom": "H205",
-      "contact": "+1 555-2345",
-      "email": "william.taylor@hospital.com",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ43pA5ohSHvxkSP_0VAxPy8GZAUgDydGQ8kyYZewhxXpYtRoL8SSHfQtpruehLB29Ls&usqp=CAU"
-
-    }
-  ]
-}
+    "Appointments": [
+      {
+        "doctorName": "Dr. Emily Johnson",
+        "designation": "Cardiologist",
+        "qualification": "MD, FACC",
+        "date": "2024-June-15",
+        "time": "10:00 AM",
+        "status": "cancelled",
+        "doctorRoom": "A214",
+        "contact": "+1 555-0123",
+        "email": "emily.johnson@hospital.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
+        "day": "Wednesday"
+      },
+      {
+        "doctorName": "Dr. Michael Thompson",
+        "designation": "Pediatrician",
+        "qualification": "MD, FAAP",
+        "date": "2024-June-15",
+        "time": "2:30 PM",
+        "status": "completed",
+        "doctorRoom": "B107",
+        "contact": "+1 555-0456",
+        "email": "michael.thompson@hospital.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgv_K75syaSiaxXGVBUykElNB9uD1Le4d8w&s",
+        "day": "Friday"
+      },
+      {
+        "doctorName": "Dr. Sarah Wilson",
+        "designation": "Dermatologist",
+        "qualification": "MD, FAAD",
+        "date": "2024-June-17",
+        "time": "11:15 AM",
+        "status": "completed",
+        "doctorRoom": "C305",
+        "contact": "+1 555-0789",
+        "email": "sarah.wilson@hospital.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
+        "day": "Sunday"
+      },
+      {
+        "doctorName": "Dr. David Lee",
+        "designation": "Orthopedic Surgeon",
+        "qualification": "MD, FAAOS",
+        "date": "2024-July-18",
+        "time": "3:45 PM",
+        "status": "cancelled",
+        "doctorRoom": "D112",
+        "contact": "+1 555-2468",
+        "email": "david.lee@hospital.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ43pA5ohSHvxkSP_0VAxPy8GZAUgDydGQ8kyYZewhxXpYtRoL8SSHfQtpruehLB29Ls&usqp=CAU",
+        "day": "Thursday"
+      },
+      {
+        "doctorName": "Dr. Jessica Brown",
+        "designation": "Obstetrician/Gynecologist",
+        "qualification": "MD, FACOG",
+        "date": "2024-August-19",
+        "time": "9:00 AM",
+        "status": "scheduled",
+        "doctorRoom": "E201",
+        "contact": "+1 555-3690",
+        "email": "jessica.brown@hospital.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
+        "day": "Monday"
+      },
+      {
+        "doctorName": "Dr. Robert Davis",
+        "designation": "Neurologist",
+        "qualification": "MD, FAAN",
+        "date": "2024-September-06",
+        "time": "1:30 PM",
+        "status": "completed",
+        "doctorRoom": "F314",
+        "contact": "+1 555-4567",
+        "email": "robert.davis@hospital.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgv_K75syaSiaxXGVBUykElNB9uD1Le4d8w&s",
+        "day": "Tuesday"
+      },
+      {
+        "doctorName": "Dr. Emily Chen",
+        "designation": "Gastroenterologist",
+        "qualification": "MD, FACG",
+        "date": "2024-September-20",
+        "time": "4:00 PM",
+        "status": "rescheduled",
+        "doctorRoom": "G108",
+        "contact": "+1 555-7890",
+        "email": "emily.chen@hospital.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
+        "day": "Saturday"
+      },
+      {
+        "doctorName": "Dr. William Taylor",
+        "designation": "Oncologist",
+        "qualification": "MD, FASCO",
+        "date": "2024-September-22",
+        "time": "10:30 AM",
+        "status": "scheduled",
+        "doctorRoom": "H205",
+        "contact": "+1 555-2345",
+        "email": "william.taylor@hospital.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ43pA5ohSHvxkSP_0VAxPy8GZAUgDydGQ8kyYZewhxXpYtRoL8SSHfQtpruehLB29Ls&usqp=CAU",
+        "day": "Friday"
+      }
+    ]
+  }
+  
