@@ -1,0 +1,92 @@
+{
+  "Appointments": [
+    {
+      "doctorName": "Dr. Emily Johnson",
+      "designation": "Cardiologist",
+      "qualification": "MD, FACC",
+      "date": "2023-06-15",
+      "time": "10:00 AM",
+      "status": "scheduled",
+      "doctorRoom": "A214",
+      "contact": "+1 555-0123",
+      "email": "emily.johnson@hospital.com"
+    },
+    {
+      "doctorName": "Dr. Michael Thompson",
+      "designation": "Pediatrician",
+      "qualification": "MD, FAAP",
+      "date": "2023-06-16",
+      "time": "2:30 PM",
+      "status": "completed",
+      "doctorRoom": "B107",
+      "contact": "+1 555-0456",
+      "email": "michael.thompson@hospital.com"
+    },
+    {
+      "doctorName": "Dr. Sarah Wilson",
+      "designation": "Dermatologist",
+      "qualification": "MD, FAAD",
+      "date": "2023-06-17",
+      "time": "11:15 AM",
+      "status": "rescheduled",
+      "doctorRoom": "C305",
+      "contact": "+1 555-0789",
+      "email": "sarah.wilson@hospital.com"
+    },
+    {
+      "doctorName": "Dr. David Lee",
+      "designation": "Orthopedic Surgeon",
+      "qualification": "MD, FAAOS",
+      "date": "2023-06-18",
+      "time": "3:45 PM",
+      "status": "cancelled",
+      "doctorRoom": "D112",
+      "contact": "+1 555-2468",
+      "email": "david.lee@hospital.com"
+    },
+    {
+      "doctorName": "Dr. Jessica Brown",
+      "designation": "Obstetrician/Gynecologist",
+      "qualification": "MD, FACOG",
+      "date": "2023-06-19",
+      "time": "9:00 AM",
+      "status": "scheduled",
+      "doctorRoom": "E201",
+      "contact": "+1 555-3690",
+      "email": "jessica.brown@hospital.com"
+    },
+    {
+      "doctorName": "Dr. Robert Davis",
+      "designation": "Neurologist",
+      "qualification": "MD, FAAN",
+      "date": "2023-06-20",
+      "time": "1:30 PM",
+      "status": "completed",
+      "doctorRoom": "F314",
+      "contact": "+1 555-4567",
+      "email": "robert.davis@hospital.com"
+    },
+    {
+      "doctorName": "Dr. Emily Chen",
+      "designation": "Gastroenterologist",
+      "qualification": "MD, FACG",
+      "date": "2023-06-21",
+      "time": "4:00 PM",
+      "status": "rescheduled",
+      "doctorRoom": "G108",
+      "contact": "+1 555-7890",
+      "email": "emily.chen@hospital.com"
+    },
+    {
+      "doctorName": "Dr. William Taylor",
+      "designation": "Oncologist",
+      "qualification": "MD, FASCO",
+      "date": "2023-06-22",
+      "time": "10:30 AM",
+      "status": "scheduled",
+      "doctorRoom": "H205",
+      "contact": "+1 555-2345",
+      "email": "william.taylor@hospital.com"
+    }
+  ]
+}
