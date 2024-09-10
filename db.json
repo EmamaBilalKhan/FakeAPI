@@ -12,7 +12,11 @@
       "contact": "+1 555-0123",
       "email": "emily.johnson@hospital.com",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
-      "day": "Wednesday"
+      "day": "Wednesday",
+      "patientName": "John Doe",
+      "patientContact": "+1 555-1111",
+      "patientEmail": "john.doe@example.com",
+      "patientAddress": "123 Main St, Cityville, ST 12345"
     },
     {
       "doctorName": "Dr. Michael Thompson",
@@ -26,7 +30,11 @@
       "contact": "+1 555-0456",
       "email": "michael.thompson@hospital.com",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgv_K75syaSiaxXGVBUykElNB9uD1Le4d8w&s",
-      "day": "Friday"
+      "day": "Friday",
+      "patientName": "Jane Smith",
+      "patientContact": "+1 555-2222",
+      "patientEmail": "jane.smith@example.com",
+      "patientAddress": "456 Oak St, Townsville, ST 67890"
     },
     {
       "doctorName": "Dr. Sarah Wilson",
@@ -40,7 +48,11 @@
       "contact": "+1 555-0789",
       "email": "sarah.wilson@hospital.com",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
-      "day": "Sunday"
+      "day": "Sunday",
+      "patientName": "Alice Johnson",
+      "patientContact": "+1 555-3333",
+      "patientEmail": "alice.johnson@example.com",
+      "patientAddress": "789 Pine St, Villageville, ST 98765"
     },
     {
       "doctorName": "Dr. David Lee",
@@ -54,7 +66,11 @@
       "contact": "+1 555-2468",
       "email": "david.lee@hospital.com",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ43pA5ohSHvxkSP_0VAxPy8GZAUgDydGQ8kyYZewhxXpYtRoL8SSHfQtpruehLB29Ls&usqp=CAU",
-      "day": "Thursday"
+      "day": "Thursday",
+      "patientName": "Michael Brown",
+      "patientContact": "+1 555-4444",
+      "patientEmail": "michael.brown@example.com",
+      "patientAddress": "101 Maple St, Hamletville, ST 13579"
     },
     {
       "doctorName": "Dr. Jessica Brown",
@@ -68,7 +84,11 @@
       "contact": "+1 555-3690",
       "email": "jessica.brown@hospital.com",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
-      "day": "Monday"
+      "day": "Monday",
+      "patientName": "Emma White",
+      "patientContact": "+1 555-5555",
+      "patientEmail": "emma.white@example.com",
+      "patientAddress": "202 Birch St, Metropolis, ST 24680"
     },
     {
       "doctorName": "Dr. Robert Davis",
@@ -82,7 +102,11 @@
       "contact": "+1 555-4567",
       "email": "robert.davis@hospital.com",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgv_K75syaSiaxXGVBUykElNB9uD1Le4d8w&s",
-      "day": "Tuesday"
+      "day": "Tuesday",
+      "patientName": "James Green",
+      "patientContact": "+1 555-6666",
+      "patientEmail": "james.green@example.com",
+      "patientAddress": "303 Cedar St, Capital City, ST 11223"
     },
     {
       "doctorName": "Dr. Emily Chen",
@@ -96,7 +120,11 @@
       "contact": "+1 555-7890",
       "email": "emily.chen@hospital.com",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
-      "day": "Saturday"
+      "day": "Saturday",
+      "patientName": "Sophia Adams",
+      "patientContact": "+1 555-7777",
+      "patientEmail": "sophia.adams@example.com",
+      "patientAddress": "404 Willow St, Urbantown, ST 33445"
     },
     {
       "doctorName": "Dr. William Taylor",
@@ -110,7 +138,11 @@
       "contact": "+1 555-2345",
       "email": "william.taylor@hospital.com",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ43pA5ohSHvxkSP_0VAxPy8GZAUgDydGQ8kyYZewhxXpYtRoL8SSHfQtpruehLB29Ls&usqp=CAU",
-      "day": "Friday"
+      "day": "Friday",
+      "patientName": "Liam Thompson",
+      "patientContact": "+1 555-8888",
+      "patientEmail": "liam.thompson@example.com",
+      "patientAddress": "505 Elm St, Riverside, ST 55667"
     }
   ]
 }
