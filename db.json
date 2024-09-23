@@ -34,7 +34,41 @@
       "patientName": "Jane Smith",
       "patientContact": "+1 555-2222",
       "patientEmail": "jane.smith@example.com",
-      "patientAddress": "456 Oak St, Townsville, ST 67890"
+      "patientAddress": "456 Oak St, Townsville, ST 67890",
+      "prescription":{
+        "Doctor":"Dr. Michael Thompson",
+        "Date":"2024-June-15",
+        "Medication":[
+            {
+              "Medicine": "Azoxan",
+              "Strength": "500mg",
+              "Dosage": "2 tablets",
+              "Frequency": "12 hrs",
+              "Duration": "10 Days"
+            },
+            {
+              "Medicine": "Conta",
+              "Strength": "200mg",
+              "Dosage": "1 tablet",
+              "Frequency": "6 hrs",
+              "Duration": "5 Days"
+            },
+            {
+              "Medicine": "Floran",
+              "Strength": "500mg",
+              "Dosage": "1 tablet",
+              "Frequency": "24 hrs",
+              "Duration": "8 Days"
+            },
+            {
+              "Medicine": "Roxan",
+              "Strength": "200mg",
+              "Dosage": "2 tablets",
+              "Frequency": "12 hrs",
+              "Duration": "10 Days"
+            }
+          ]
+      }
     },
     {  "appointmentId": "005",
       "doctorName": "Dr. Sarah Wilson",
@@ -52,7 +86,42 @@
       "patientName": "Alice Johnson",
       "patientContact": "+1 555-3333",
       "patientEmail": "alice.johnson@example.com",
-      "patientAddress": "789 Pine St, Villageville, ST 98765"
+      "patientAddress": "789 Pine St, Villageville, ST 98765",
+      "prescription":
+      {
+        "Doctor":"Dr. Sarah Wilson",
+        "Date":"2024-June-17",
+        "Medication": [
+            {
+              "Medicine": "Azoxan",
+              "Strength": "500mg",
+              "Dosage": "2 tablets",
+              "Frequency": "12 hrs",
+              "Duration": "10 Days"
+            },
+            {
+              "Medicine": "Conta",
+              "Strength": "200mg",
+              "Dosage": "1 tablet",
+              "Frequency": "6 hrs",
+              "Duration": "5 Days"
+            },
+            {
+              "Medicine": "Floran",
+              "Strength": "500mg",
+              "Dosage": "1 tablet",
+              "Frequency": "24 hrs",
+              "Duration": "8 Days"
+            },
+            {
+              "Medicine": "Roxan",
+              "Strength": "200mg",
+              "Dosage": "2 tablets",
+              "Frequency": "12 hrs",
+              "Duration": "10 Days"
+            }
+          ]
+      }
     },
     {  "appointmentId": "006",
       "doctorName": "Dr. David Lee",
@@ -106,7 +175,41 @@
       "patientName": "James Green",
       "patientContact": "+1 555-6666",
       "patientEmail": "james.green@example.com",
-      "patientAddress": "303 Cedar St, Capital City, ST 11223"
+      "patientAddress": "303 Cedar St, Capital City, ST 11223",
+      "prescription":{
+        "Doctor":"Dr. Robert Davis",
+        "Date":"2023-Sept-06",
+        "Medication": [
+            {
+              "Medicine": "Azoxan",
+              "Strength": "500mg",
+              "Dosage": "2 tablets",
+              "Frequency": "12 hrs",
+              "Duration": "10 Days"
+            },
+            {
+              "Medicine": "Conta",
+              "Strength": "200mg",
+              "Dosage": "1 tablet",
+              "Frequency": "6 hrs",
+              "Duration": "5 Days"
+            },
+            {
+              "Medicine": "Floran",
+              "Strength": "500mg",
+              "Dosage": "1 tablet",
+              "Frequency": "24 hrs",
+              "Duration": "8 Days"
+            },
+            {
+              "Medicine": "Roxan",
+              "Strength": "200mg",
+              "Dosage": "2 tablets",
+              "Frequency": "12 hrs",
+              "Duration": "10 Days"
+            }
+          ]
+      }
     },
     {  "appointmentId": "007",
       "doctorName": "Dr. Emily Chen",
